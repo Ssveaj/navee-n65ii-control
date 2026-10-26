@@ -70,6 +70,12 @@ Grab the latest APK from the [Releases](../../releases) page, transfer it to you
 - Make sure the battery is charged, phone close by, scooter parked with the drive wheel off the ground.
 - **Do not power off the scooter or the phone while flashing.**
 - If a flash goes wrong, use **Firmware → Recovery stock** to restore the original image.
+- 
+## Tested & verified
+
+A Swedish (SE) NAVEE N65i II 6001 (BLDC 0.0.0.5) has been flashed with this app and confirmed to
+run at **40 km/h**, stable on a test ride. **Recovery stock** was also verified to restore the
+original firmware. Other units and regions should behave the same when model- and firmware-matched.
 
 ## Sample
 <img width="450" height="1000" alt="image" src="https://github.com/user-attachments/assets/5fadb98a-afba-4c43-9dcf-cee22f776969" /><img width="450" height="1000" alt="image" src="https://github.com/user-attachments/assets/bf02cc37-ed37-4950-82d7-f1197a4e1827" /> <img width="450" height="1000" alt="image" src="https://github.com/user-attachments/assets/1a83a7b9-7422-441b-a88c-665390522bfe" /> <img width="450" height="1000" alt="image" src="https://github.com/user-attachments/assets/d47d2267-2027-4d4e-a818-1a4485eb35b7" />
