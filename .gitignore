@@ -1,0 +1,19 @@
+*.iml
+.gradle/
+.kotlin/
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+control/build/
+app/build/
+.externalNativeBuild/
+.cxx/
+
+# Owner-specific session identity — a captured credential, never publish
+*.local.txt
+control/owner-auth.local.txt
+
+__pycache__/
+*.pyc
